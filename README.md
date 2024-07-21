@@ -4,8 +4,8 @@ using Espressif IoT Development Framework
 
 
 # Result
-User Interface
-![UI](1.jpg)
-
 Wiring
-![Wiring](2.jpg)
+![Wiring](1.jpg)
+
+User Interface
+![UI](2.jpg)
